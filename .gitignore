@@ -1,0 +1,12 @@
+# Ignore system files
+.DS_Store
+.idea/
+**/__pycache__
+*.pyc
+
+# Ignore data files
+data/
+
+# Ignore Python notebooks
+*.ipynb
+**/.ipynb_checkpoints
